@@ -1,0 +1,12 @@
+# Comparison outputs
+compares/
+
+# Model weights
+*.pt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
